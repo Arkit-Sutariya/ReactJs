@@ -9,8 +9,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
   <React.StrictMode>
-    {/* <App /> */}
-    <User />
+    <App />
+    {/* <User /> */}
   </React.StrictMode>
 
   // <h1>Hello world!</h1>
