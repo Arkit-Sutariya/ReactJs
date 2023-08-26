@@ -13,8 +13,6 @@ root.render(
     {/* <User /> */}
   </React.StrictMode>
 
-  // <h1>Hello world!</h1>
-
 );
 
 // If you want to start measuring performance in your app, pass a function
